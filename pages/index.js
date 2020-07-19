@@ -39,7 +39,7 @@ class CampaignIndex extends Component {
             <div>
                 <h3>Open Campaigns</h3>
 
-                <Link route='/campaings/new'>
+                <Link route='/campaigns/new'>
                     <a>
                         <Button
                             floated="right"
