@@ -10,11 +10,11 @@
   "author": "Aldemaro Gonzalez",
   "license": "ISC",
   "dependencies": {
-    "@truffle/hdwallet-provider": "^1.0.34",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "fs-extra": "^5.0.0",
     "ganache-cli": "^6.9.1",
     "mocha": "^7.1.1",
-    "next": "^4.1.4",
+    "next": "^13.1.1",
     "next-routes": "^1.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
